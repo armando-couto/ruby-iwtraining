@@ -1,0 +1,12 @@
+GEM
+  specs:
+    geocoder (1.3.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  geocoder
+
+BUNDLED WITH
+   1.10.6
